@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body{
+  background: transparent !important;
+}
+span{
+  color: rgb(229, 27, 34) !important;
+}
+h1{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1.8rem;
+  font-family: 'Lobster', sans-serif;
+  color: rgb(229, 27, 34) !important;
+}
+#horario h3{
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.0rem;
+  color: rgb(33, 137, 36)
+}
+h2{
+	font-family: 'Impact', sans-serif;
+    color: red;
+}
